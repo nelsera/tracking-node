@@ -2,6 +2,9 @@ tracking-node
 ==========================
 
 ### Windows Pre-Requisites
+
+NVM for Window: https://github.com/coreybutler/nvm-windows
+
 Python 2.7.x: https://www.python.org/downloads/
 
 ### Application NPM Commands ###
