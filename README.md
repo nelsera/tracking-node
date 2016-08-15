@@ -23,4 +23,3 @@ Python 2.7.x: https://www.python.org/downloads/
 // runs mocha tests
 > npm test
 ```
-```
