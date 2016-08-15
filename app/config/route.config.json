@@ -1,0 +1,9 @@
+{
+  "routes": [
+    {
+      "route": "/v1/tracking",
+      "method": "GET",
+      "controller": "../controllers/v1/tracking/tracking-controller"
+    }
+  ]
+}
